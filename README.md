@@ -1,4 +1,4 @@
-<h4 align="left">Hi, I'm Kartik, passionate about learning with an endless supply of optimism and curiosity.</h4>
+<h3 align="left">Hi, I'm Kartik, passionate about learning with an endless supply of optimism and curiosity.</h3>
 
 ###
 
@@ -9,7 +9,7 @@
 <p align="left">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.<br><br>📫How to reach out : work.kartikgarg@gmail.com</p>
 
 ###
-
+<br><br>
 <h3 align="center">Languages and Tools :</h3>
 
 ###
