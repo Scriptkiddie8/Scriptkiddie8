@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="center">Languages and Tools :</h4>
+<h3 align="center">Languages and Tools :</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="center">My Github Stats :</h4>
+<h3 align="center">My Github Stats :</h3>
 
 ###
 
