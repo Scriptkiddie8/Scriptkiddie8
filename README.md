@@ -1,24 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kartik Garg</h1>
-<h3 align="center">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</h3>
+<h4 align="left">Hi, I'm Kartik, passionate about learning with an endless supply of optimism and curiosity.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptkiddie8&label=Profile%20views&color=0e75b6&style=flat" alt="scriptkiddie8" /> </p>
+###
 
-- 🔭 I’m currently working on **Match-me**
+<img align="right" height="200" src="https://camo.githubusercontent.com/e923fd7e762e7c78e9243286ef0c45642a4f75f5a15d06026d51676e6bc67546/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966"  />
 
-- 🌱 I’m currently learning **System Design**
+###
 
-- 💬 Ask me about **JavaScript, React, Express, NodeJs, MongoDB**
+<p align="left">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.<br><br>📫How to reach out : work.kartikgarg@gmail.com</p>
 
-- 📫 How to reach me **work.kartikgarg@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kartik-garg-t26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik garg" height="30" width="40" /></a>
-</p>
+<h4 align="center">Languages and Tools :</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=scriptkiddie8&show_icons=true&locale=en" alt="scriptkiddie8" /></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptkiddie8&" alt="scriptkiddie8" /></p>
+###
+
+<h4 align="center">My Github Stats :</h4>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=scriptkiddie8&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=0&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=scriptkiddie8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/scriptkiddie8/scriptkiddie8/output/snake.svg" alt="Snake animation" />
+
+###
