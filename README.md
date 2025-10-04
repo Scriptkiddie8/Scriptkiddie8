@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.<br><br>📫How to reach out : work.kartikgarg@gmail.com</p>
+<p align="left">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.<br><br>📫How to reach out : <u>work.kartikgarg@gmail.com</u></p>
 
 ###
 <br><br>
-<h3 align="center">Languages and Tools :</h3>
+<h2 align="center">Languages and Tools :</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="center">My Github Stats :</h3>
+<h2 align="center">My Github Stats :</h2>
 
 ###
 
