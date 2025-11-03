@@ -10,7 +10,7 @@
  <br><br>
  💼 Connect with me on : 
   <a href="https://www.linkedin.com/in/kartik-garg/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" alt="LinkedIn logo" style="vertical-align: middle; margin-left: 5px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" alt="LinkedIn logo" style="vertical-align: middle; margin-left: "5px";" />
   </a>
 </p>
 
