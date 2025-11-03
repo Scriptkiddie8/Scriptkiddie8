@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.<br><br>📫How to reach out : <a href="mailto:work.kartikgarg@gmail.com">work.kartikgarg@gmail.com</a></p>
+<p align="left">I'm a solution-driven Full Stack Web Developer skilled in the MERN Stack. I'm passionate about building web applications and confident in learning new things with a curious mind. I have an absolute passion for coding and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.<br><br>📫How to reach out : <a href="mailto:work.kartikgarg@gmail.com">work.kartikgarg@gmail.com</a>
+ <br><br>
+  💼 Connect with me on 
+  <a href="https://www.linkedin.com/in/kartik-garg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn Badge" />
+  </a>
+</p>
 
 ###
 <br><br>
