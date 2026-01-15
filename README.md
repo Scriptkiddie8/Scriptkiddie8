@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/kartik-garg-t26/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35" alt="LinkedIn logo" style="vertical-align: middle; margin-left: "5px";" />
   </a>
+ <br><br>
   💼 My Portfolio: 
   <a href="https://my-portfolio-snowy-eight-48.vercel.app/" target="_blank">
     Link
