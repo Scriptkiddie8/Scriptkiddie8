@@ -14,7 +14,7 @@
   </a>
  <br><br>
   💼 My Portfolio: 
-  <a href="https://my-portfolio-snowy-eight-48.vercel.app/" target="_blank">
+  <a href="https://my-portfolio-snowy-eight-48.vercel.app/" target="_blank" style="vertical-align: middle; margin-left: "5px";">
     Link
   </a>
 </p>
